@@ -18,7 +18,9 @@
 
 In two APIs made with [Python Flask](https://github.com/souovan/TCC-python/tree/main/python-flask) and [FastAPI](https://github.com/souovan/TCC-python/tree/main/python-fastapi) with [Postgresql](https://github.com/souovan/TCC-python/blob/main/postgresql_db/python_flask_fastapi_db.sql) database created in order to learn from my [TCC](https://github.com/souovan/TCC) documentation where I document a Pet Shop system with UML 
 
-And in the opensource project [Axeet](https://github.com/axeet/axeet.github.io), a CheatSheet generator.
+In the opensource project [Axeet](https://github.com/axeet/axeet.github.io), a CheatSheet generator.
+
+In the opensource project [FlashCardOps](https://github.com/orgs/flashcardops/repositories), a flashcard generator with CLI in shellscript and application in HTML, CSS and Javascript that enables the creation and presentation of flashcards for studies on related DevOps topics and supports Docker image generation and Kubernetes cluster hosting with Kind to improve development skills in related technologies.
 
 ## Learning 🌱
 
