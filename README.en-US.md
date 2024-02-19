@@ -20,7 +20,7 @@ In two APIs made with [Python Flask](https://github.com/souovan/TCC-python/tree/
 
 In the opensource project [Axeet](https://github.com/axeet/axeet.github.io), a CheatSheet generator.
 
-In the opensource project [FlashCardOps](https://github.com/orgs/flashcardops/repositories), a flashcard generator with CLI in shellscript and application in HTML, CSS and Javascript that enables the creation and presentation of flashcards for studies on related DevOps topics and supports Docker image generation and Kubernetes cluster hosting with Kind to improve development skills in related technologies.
+In the opensource project [FlashCardOps](https://github.com/orgs/flashcardops/repositories), a flashcard generator with CLI in shellscript and application in HTML, CSS and Javascript that enables the creation and presentation of flashcards for studies on related DevOps topics and supports Docker image generation and Kubernetes cluster hosting with Kind.
 
 ## Learning 🌱
 
