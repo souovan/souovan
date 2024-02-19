@@ -23,7 +23,7 @@ Em duas APIs feitas com [Python Flask](https://github.com/souovan/TCC-python/tre
 
 No projeto opensource [Axeet](https://github.com/axeet/axeet.github.io), um gerador de CheatSheet.
 
-No projeto opensource [FlashCardOps](https://github.com/orgs/flashcardops/repositories), um gerador de flashcards com CLI em shellscript e aplicação em HTML, CSS e Javascript que possibilita criação e apresentação de flashcards para estudos de temas relacionados a DevOps e suporta a geração de imagem Docker e hospedagem em cluster Kubernetes com Kind para aprimoramento das skills de desenvolvimento nas tecnologias relacionadas.
+No projeto opensource [FlashCardOps](https://github.com/orgs/flashcardops/repositories), um gerador de flashcards com CLI em shellscript e aplicação em HTML, CSS e Javascript que possibilita criação e apresentação de flashcards para estudos de temas relacionados a DevOps e suporta a geração de imagem Docker e hospedagem em cluster Kubernetes com Kind.
 
 ## Atualmente estou estudando 🌱
 
